@@ -2,6 +2,7 @@ package com.sysgears.example.dao
 
 import com.mongodb.casbah.Imports._
 import com.novus.salat._
+import com.novus.salat.global._
 import com.sysgears.example.domain.{Chocolate, ChocolateQueryParams}
 import scala.language.implicitConversions
 
